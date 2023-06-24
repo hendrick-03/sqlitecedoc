@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetalhesActivity">
+
+    <TextView
+        android:id="@+id/ttl_detalhes_Tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+        android:textSize="20sp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/ano_detalhes_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+        android:textSize="20sp"
+        android:text="TextView"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/autor_detalhes_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+        android:textSize="20sp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/curso_detalhes_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+        android:textSize="20sp"
+        android:text="TextView" />
+
+
+</LinearLayout>

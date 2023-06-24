@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite Cedoc</string>
+    <string name="titulo_ed">Insira o seu Titulo</string>
+    <string name="ano_ed">Insira o ano</string>
+    <string name="autor_ed">Insira o autor</string>
+    <string name="curso_ed">insira o curso</string>
+</resources>
